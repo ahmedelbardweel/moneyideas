@@ -1,0 +1,189 @@
+{
+  "@@locale": "en",
+  "appName": "Money Ideas",
+  "appTagline": "Smart Business & Investment Platform",
+
+  "navHome": "Home",
+  "navDiscover": "Discover",
+  "navAssistant": "Assistant",
+  "navNetwork": "Network",
+  "navAccount": "Account",
+
+  "commonContinue": "Continue",
+  "commonConfirm": "Confirm",
+  "commonCancel": "Cancel",
+  "commonSave": "Save",
+  "commonShare": "Share",
+  "commonEdit": "Edit",
+  "commonDelete": "Delete",
+  "commonRetry": "Retry",
+  "commonBack": "Back",
+  "commonDone": "Done",
+  "commonClose": "Close",
+  "commonSearch": "Search",
+  "commonFilter": "Filter",
+  "commonClear": "Clear",
+  "commonSeeAll": "See All",
+  "commonSkip": "Skip",
+  "commonStartNow": "Start Now",
+
+  "errorRequired": "This field is required",
+  "errorMinLength": "Must be at least {min} characters",
+  "@errorMinLength": {
+    "placeholders": {
+      "min": { "type": "int" }
+    }
+  },
+  "errorMaxLength": "Must not exceed {max} characters",
+  "@errorMaxLength": {
+    "placeholders": {
+      "max": { "type": "int" }
+    }
+  },
+  "errorInvalidName": "Name must contain letters and spaces only",
+  "errorInvalidEmail": "Please enter a valid email address",
+  "errorWeakPassword": "Password must be at least 8 chars with uppercase, lowercase, and a digit",
+  "errorPasswordMismatch": "Passwords do not match",
+  "errorInvalidOtp": "Verification code must be {length} digits",
+  "@errorInvalidOtp": {
+    "placeholders": {
+      "length": { "type": "int" }
+    }
+  },
+  "errorInvalidNumber": "Please enter a valid number",
+  "errorOutOfRange": "Entered value is out of allowed range",
+  "errorTooManyDecimals": "Maximum decimal places allowed is {max}",
+  "@errorTooManyDecimals": {
+    "placeholders": {
+      "max": { "type": "int" }
+    }
+  },
+  "errorInvalidUrl": "Please enter a valid web URL",
+  "errorInsecureUrl": "URL must begin with https for your security",
+  "errorInvalidPhone": "Please enter a valid phone number",
+  "errorInvalidLicense": "Invalid trade license format",
+  "errorForbiddenClaim": "Guaranteed profit or risk-free claims are not permitted",
+  "errorMustAccept": "You must accept the terms to continue",
+  "errorSelectionRequired": "Please select at least one option",
+  "errorFileTooLarge": "File exceeds the allowed size limit (10MB)",
+  "errorFileTypeNotAllowed": "File type is not supported",
+
+  "networkErrorTitle": "No Internet Connection",
+  "networkErrorMessage": "Could not connect to the server. You can view offline saved data or retry.",
+  "serverErrorTitle": "Unexpected Error",
+  "serverErrorMessage": "We encountered a problem processing your request. Please try again later.",
+  "emptyStateTitle": "No Matching Results",
+  "emptyStateMessage": "Try adjusting your search criteria or filters to explore more options.",
+  "unauthorizedTitle": "Unauthorized Access",
+  "unauthorizedMessage": "You need to log in or have appropriate permissions to view this content.",
+  "dataNeedsUpdate": "Information needs update",
+  "dataVerified": "Verified data source",
+  "dataEstimated": "Estimated figures subject to variation",
+  "sponsoredAd": "Sponsored Ad",
+
+  "languageTitle": "Choose App Language",
+  "languageSubtitle": "You can change the language anytime from settings",
+  "arabic": "العربية (Arabic)",
+  "english": "English (الإنجليزية)",
+
+  "onboardingSlide1Title": "Smart Business Advisor",
+  "onboardingSlide1Desc": "Analyzes your capacity, budget, and experience to propose data-verified options without false claims.",
+  "onboardingSlide2Title": "Integrated Opportunity Marketplace",
+  "onboardingSlide2Desc": "Explore business ideas, operational cost breakdowns, risks, and verified company offers with ease.",
+  "onboardingSlide3Title": "Partnership & Investor Network",
+  "onboardingSlide3Desc": "Connect with entrepreneurs, investors, and vetted companies to build and scale ventures together.",
+
+  "welcomeTitle": "Welcome to Money Ideas",
+  "welcomeSubtitle": "Your intelligent portal to transform ambitions and budget into verified, well-studied ventures.",
+
+  "authLogin": "Log In",
+  "authRegister": "Create Account",
+  "authEmail": "Email",
+  "authPassword": "Password",
+  "authConfirmPassword": "Confirm Password",
+  "authForgotPassword": "Forgot Password?",
+  "authFullName": "Full Name",
+  "authGuest": "Explore as Guest",
+  "authVerifyEmailTitle": "Verify Your Email",
+  "authVerifyEmailDesc": "Enter the 6-digit verification code sent to {email}",
+  "@authVerifyEmailDesc": {
+    "placeholders": {
+      "email": { "type": "String" }
+    }
+  },
+  "authResendOtp": "Resend Code",
+  "authResendInSeconds": "Resend in {seconds} seconds",
+  "@authResendInSeconds": {
+    "placeholders": {
+      "seconds": { "type": "int" }
+    }
+  },
+  "authAgreeTerms": "I agree to the Terms of Service & Privacy Policy",
+  "authResetPasswordTitle": "Reset Password",
+  "authResetPasswordDesc": "Enter your registered email and we'll send password recovery instructions.",
+  "authSendResetLink": "Send Recovery Link",
+  "authResetSuccess": "Password recovery instructions have been sent to your email.",
+  "authRememberMe": "Remember me",
+  "authAlreadyHaveAccount": "Already have an account?",
+  "authDontHaveAccount": "Don't have an account?",
+
+  "setupTitle": "Personalize Your Experience",
+  "setupStepRole": "Account Role",
+  "setupStepRoleDesc": "Select roles that match your intent (multi-selection supported):",
+  "roleIndividual": "Individual / Explorer",
+  "roleIndividualDesc": "I want to invest capital or discover a suitable business idea.",
+  "roleInvestor": "Investor",
+  "roleInvestorDesc": "I seek established businesses or promising concepts for co-funding.",
+  "roleProjectOwner": "Founder / Project Owner",
+  "roleProjectOwnerDesc": "I want to grow my existing business or find partners and investors.",
+  "roleCompany": "Company / Service Provider",
+  "roleCompanyDesc": "I provide formal services and B2B solutions to founders and investors.",
+
+  "setupStepGoal": "What is your main goal?",
+  "setupStepGoalDesc": "Select what you want to achieve through Money Ideas:",
+  "goalInvest": "Invest available capital",
+  "goalDiscover": "I don't have an idea and want to discover opportunities",
+  "goalDevelop": "Grow and scale my existing business",
+  "goalPartner": "Find a partner or co-investor",
+  "goalService": "Find corporate services and setup solutions",
+
+  "setupStepLocation": "Location & Target Markets",
+  "setupStepLocationDesc": "Choose your operational market for localized insights:",
+  "setupCountry": "Country",
+  "setupCity": "City",
+  "setupCurrency": "Preferred Currency",
+
+  "setupStepBudget": "Budget & Capital",
+  "setupStepBudgetDesc": "Specify your financial range to filter viable opportunities:",
+  "setupBudgetAmount": "Available Starting Capital",
+  "setupNoCapital": "I have no capital right now (relying on skills and time)",
+  "setupBudgetCeiling": "Maximum spending ceiling (optional)",
+
+  "setupStepExperience": "Experience & Available Time",
+  "setupStepExperienceDesc": "Helps us recommend ventures matching your bandwidth:",
+  "setupExperienceLevel": "Previous business management experience",
+  "expBeginner": "Beginner (First endeavor)",
+  "expIntermediate": "Intermediate (Familiar with business basics)",
+  "expAdvanced": "Advanced (Have founded and managed businesses)",
+  "setupWeeklyHours": "Weekly hours available to dedicate",
+  "setupManagementPref": "Preferred management involvement",
+  "managementActive": "I want to actively operate the business myself",
+  "managementPassive": "I prefer a passive investment with minimal daily management",
+
+  "setupStepRisk": "Risk & Liquidity",
+  "setupStepRiskDesc": "Balance potential return against capital security:",
+  "setupRiskTolerance": "Risk Tolerance Level",
+  "riskLow": "Low (Capital preservation is my priority)",
+  "riskMedium": "Medium (Accept moderate fluctuations for better yields)",
+  "riskHigh": "High (Comfortable with volatility for high growth)",
+  "setupLiquidity": "Time horizon for capital liquidity",
+  "liquidityShort": "Short-term (Under 1 year)",
+  "liquidityMedium": "Medium-term (1 to 3 years)",
+  "liquidityLong": "Long-term (Over 3 years)",
+  "setupRiskHelp": "Risk measures capital fluctuation, while liquidity measures how quickly your investment can be liquidated.",
+
+  "setupStepReview": "Review Your Profile",
+  "setupStepReviewDesc": "Review your answers before exploring matching opportunities:",
+  "setupCompletionScore": "Analytical Profile Completeness",
+  "setupShowOptions": "Show Matching Opportunities"
+}

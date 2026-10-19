@@ -1,0 +1,189 @@
+{
+  "@@locale": "ar",
+  "appName": "أفكار المال",
+  "appTagline": "منصة أعمال واستثمار ذكية متكاملة",
+
+  "navHome": "الرئيسية",
+  "navDiscover": "اكتشف",
+  "navAssistant": "المساعد",
+  "navNetwork": "الشبكة",
+  "navAccount": "حسابي",
+
+  "commonContinue": "متابعة",
+  "commonConfirm": "تأكيد",
+  "commonCancel": "إلغاء",
+  "commonSave": "حفظ",
+  "commonShare": "مشاركة",
+  "commonEdit": "تعديل",
+  "commonDelete": "حذف",
+  "commonRetry": "إعادة المحاولة",
+  "commonBack": "رجوع",
+  "commonDone": "تم",
+  "commonClose": "إغلاق",
+  "commonSearch": "بحث",
+  "commonFilter": "تصفية",
+  "commonClear": "مسح",
+  "commonSeeAll": "عرض الكل",
+  "commonSkip": "تخطي",
+  "commonStartNow": "ابدأ الآن",
+
+  "errorRequired": "هذا الحقل مطلوب",
+  "errorMinLength": "يجب ألا يقل عن {min} أحرف",
+  "@errorMinLength": {
+    "placeholders": {
+      "min": { "type": "int" }
+    }
+  },
+  "errorMaxLength": "يجب ألا يتجاوز {max} حرفاً",
+  "@errorMaxLength": {
+    "placeholders": {
+      "max": { "type": "int" }
+    }
+  },
+  "errorInvalidName": "الاسم يجب أن يحتوي على أحرف ومسافات فقط",
+  "errorInvalidEmail": "يرجى إدخال بريد إلكتروني صحيح",
+  "errorWeakPassword": "كلمة المرور يجب ألا تقل عن 8 خانات وتحتوي على حرف كبير وصغير ورقم",
+  "errorPasswordMismatch": "كلمتا المرور غير متطابقتين",
+  "errorInvalidOtp": "رمز التحقق يجب أن يتكون من {length} أرقام",
+  "@errorInvalidOtp": {
+    "placeholders": {
+      "length": { "type": "int" }
+    }
+  },
+  "errorInvalidNumber": "يرجى إدخال رقم صحيح",
+  "errorOutOfRange": "القيمة المدخلة خارج النطاق المسموح",
+  "errorTooManyDecimals": "الحد الأقصى للمنازل العشرية هو {max}",
+  "@errorTooManyDecimals": {
+    "placeholders": {
+      "max": { "type": "int" }
+    }
+  },
+  "errorInvalidUrl": "يرجى إدخال رابط إنترنت صحيح",
+  "errorInsecureUrl": "الرابط يجب أن يبدأ بـ https لحماية أمانك",
+  "errorInvalidPhone": "يرجى إدخال رقم هاتف صحيح",
+  "errorInvalidLicense": "رقم الرخصة التجارية غير صحيح",
+  "errorForbiddenClaim": "لا يُسمح باستخدام ادعاءات أرباح مضمونة أو خالية من المخاطر",
+  "errorMustAccept": "يجب الموافقة على الشروط والأحكام للمتابعة",
+  "errorSelectionRequired": "يرجى تحديد اختيار واحد على الأقل",
+  "errorFileTooLarge": "حجم الملف يتجاوز الحد المسموح (10 ميجابايت)",
+  "errorFileTypeNotAllowed": "صيغة الملف غير مدعومة",
+
+  "networkErrorTitle": "لا يوجد اتصال بالإنترنت",
+  "networkErrorMessage": "تعذر الاتصال بالخادم. يمكنك تصفح البيانات المحفوظة محلياً أو إعادة المحاولة.",
+  "serverErrorTitle": "حدث خطأ غير متوقع",
+  "serverErrorMessage": "واجهنا مشكلة أثناء معالجة طلبك، يرجى المحاولة لاحقاً.",
+  "emptyStateTitle": "لا توجد نتائج مطابقة",
+  "emptyStateMessage": "جرب تعديل معايير البحث أو الفلاتر لعرض مزيد من الخيارات.",
+  "unauthorizedTitle": "وصول غير مصرح به",
+  "unauthorizedMessage": "تحتاج لتسجيل الدخول أو امتلاك الصلاحيات المناسبة لعرض هذا المحتوى.",
+  "dataNeedsUpdate": "تحتاج المعلومات إلى تحديث",
+  "dataVerified": "بيانات موثقة ومتحقق منها",
+  "dataEstimated": "أرقام تقديرية قابلة للتغيير",
+  "sponsoredAd": "إعلان مروج",
+
+  "languageTitle": "اختر لغة التطبيق",
+  "languageSubtitle": "يمكنك تغيير لغة التطبيق في أي وقت من الإعدادات",
+  "arabic": "العربية (Arabic)",
+  "english": "English (الإنجليزية)",
+
+  "onboardingSlide1Title": "مستشارك الذكي للأعمال",
+  "onboardingSlide1Desc": "يحلل إمكاناتك وميزانيتك وخبرتك لاقتراح خيارات مبنية على بيانات موثقة دون ادعاءات غير حقيقية.",
+  "onboardingSlide2Title": "سوق متكامل للفرص التجارية",
+  "onboardingSlide2Desc": "استكشف أفكار المشاريع، تفاصيل التكاليف، المخاطر، وعروض الشركات في مكان واحد مع المقارنة.",
+  "onboardingSlide3Title": "شبكة الشراكات والاستثمار",
+  "onboardingSlide3Desc": "تواصل مع رواد الأعمال والمستثمرين والشركات المعتمدة لبناء وتطوير مشاريعك بنجاح.",
+
+  "welcomeTitle": "مرحباً بك في أفكار المال",
+  "welcomeSubtitle": "بوابتك الذكية لتحويل طموحاتك وميزانيتك إلى مشاريع واستثمارات مدروسة وموثقة.",
+
+  "authLogin": "تسجيل الدخول",
+  "authRegister": "إنشاء حساب جديد",
+  "authEmail": "البريد الإلكتروني",
+  "authPassword": "كلمة المرور",
+  "authConfirmPassword": "تأكيد كلمة المرور",
+  "authForgotPassword": "نسيت كلمة المرور؟",
+  "authFullName": "الاسم الكامل",
+  "authGuest": "الاستكشاف كزائر",
+  "authVerifyEmailTitle": "التحقق من البريد الإلكتروني",
+  "authVerifyEmailDesc": "أدخل رمز التحقق المكون من 6 أرقام المرسل إلى {email}",
+  "@authVerifyEmailDesc": {
+    "placeholders": {
+      "email": { "type": "String" }
+    }
+  },
+  "authResendOtp": "إعادة إرسال الرمز",
+  "authResendInSeconds": "إعادة الإرسال بعد {seconds} ثانية",
+  "@authResendInSeconds": {
+    "placeholders": {
+      "seconds": { "type": "int" }
+    }
+  },
+  "authAgreeTerms": "أوافق على شروط الاستخدام وسياسة الخصوصية",
+  "authResetPasswordTitle": "استعادة كلمة المرور",
+  "authResetPasswordDesc": "أدخل بريدك الإلكتروني المسجل وسنرسل لك تعليمات الاستعادة.",
+  "authSendResetLink": "إرسال رابط الاستعادة",
+  "authResetSuccess": "تم إرسال رابط استعادة كلمة المرور إلى بريدك الإلكتروني بنجاح.",
+  "authRememberMe": "تذكر تسجيل الدخول",
+  "authAlreadyHaveAccount": "لديك حساب بالفعل؟",
+  "authDontHaveAccount": "ليس لديك حساب؟",
+
+  "setupTitle": "تخصيص تجربتك",
+  "setupStepRole": "نوع الحساب",
+  "setupStepRoleDesc": "حدد صفاتك في المنصة (يمكنك اختيار أكثر من دور):",
+  "roleIndividual": "فرد / باحث عن فرصة",
+  "roleIndividualDesc": "أريد استثمار مالي أو اكتشاف فكرة مشروع مناسبة لإمكاناتي.",
+  "roleInvestor": "مستثمر",
+  "roleInvestorDesc": "أبحث عن مشاريع قائمة أو أفكار واعدة لتمويلها كشريك مالي.",
+  "roleProjectOwner": "صاحب فكرة أو مشروع",
+  "roleProjectOwnerDesc": "أريد تطوير مشروعي أو البحث عن شريك تنفيذي أو مستثمر.",
+  "roleCompany": "شركة أو مزود خدمات",
+  "roleCompanyDesc": "أريد تقديم عروض وخدمات رسمية لرواد الأعمال والمستثمرين.",
+
+  "setupStepGoal": "ما هو هدفك الأساسي؟",
+  "setupStepGoalDesc": "اختر الأهداف التي تود تحقيقها عبر التطبيق:",
+  "goalInvest": "أريد استثمار مبلغ مالي متاح",
+  "goalDiscover": "لا أملك فكرة وأريد اكتشاف فرصة تناسبني",
+  "goalDevelop": "تطوير مشروعي القائم وزيادة أرباحه",
+  "goalPartner": "إيجاد شريك أو مستثمر لمشروعي",
+  "goalService": "البحث عن خدمات تجارية واستشارات تأسيس",
+
+  "setupStepLocation": "الموقع والأسواق",
+  "setupStepLocationDesc": "حدد السوق المستهدف للبحث عن فرص ملائمة محلياً:",
+  "setupCountry": "الدولة",
+  "setupCity": "المدينة",
+  "setupCurrency": "العملة المفضلة",
+
+  "setupStepBudget": "الميزانية ورأس المال",
+  "setupStepBudgetDesc": "حدد قدرتك المالية التقريبية لفرز الفرص المناسبة:",
+  "setupBudgetAmount": "رأس المال المتاح للبدء",
+  "setupNoCapital": "لا أملك رأس مال حالياً (أعتمد على مهارتي ووقتي)",
+  "setupBudgetCeiling": "سقف الإنفاق الأقصى (اختياري)",
+
+  "setupStepExperience": "الخبرة والوقت المتاح",
+  "setupStepExperienceDesc": "يساعدنا ذلك على اختيار مشاريع لا تتطلب جهداً يتجاوز إمكاناتك:",
+  "setupExperienceLevel": "مستوى خبرتك السابقة في إدارة المشاريع",
+  "expBeginner": "مبتدئ (أول تجربة لي)",
+  "expIntermediate": "متوسط (لدي اطلاع أو تجارب سابقة)",
+  "expAdvanced": "متقدم (أدرت وأطلقت مشاريع تجارية)",
+  "setupWeeklyHours": "ساعات العمل المتاحة لك أسبوعياً",
+  "setupManagementPref": "طبيعة الإدارة المفضلة",
+  "managementActive": "أريد تشغيل وإدارة المشروع بنفسي",
+  "managementPassive": "أفضل استثماراً ماليًا لا يتطلب إدارة يومية",
+
+  "setupStepRisk": "المخاطر والسيولة",
+  "setupStepRiskDesc": "الموازنة بين العائد المحتمل ودرجة الأمان المالي:",
+  "setupRiskTolerance": "درجة تحملك للمخاطر",
+  "riskLow": "منخفضة (الحفاظ على رأس المال أهم أولوياتي)",
+  "riskMedium": "متوسطة (أتحمل تقلبات معتدلة مقابل عائد أفضل)",
+  "riskHigh": "مرتفعة (مستعد للمخاطرة العالية سعياً لنمو سريع)",
+  "setupLiquidity": "المدى الزمني لاسترداد أو سحب السيولة",
+  "liquidityShort": "قصير الأجل (أقل من سنة واحدة)",
+  "liquidityMedium": "متوسط الأجل (من سنة إلى 3 سنوات)",
+  "liquidityLong": "طويل الأجل (أكثر من 3 سنوات)",
+  "setupRiskHelp": "المخاطرة تعني احتمال تذبذب أو فقد جزء من المال، والسيولة تعني سرعة تحويل الاستثمار إلى كاش.",
+
+  "setupStepReview": "ملخص تفضيلاتك",
+  "setupStepReviewDesc": "راجع إجاباتك قبل الانتقال لاستكشاف الفرص المطابقة:",
+  "setupCompletionScore": "اكتمال الملف التحليلي",
+  "setupShowOptions": "اعرض الخيارات والفرص المناسبة"
+}
